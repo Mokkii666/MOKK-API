@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: mokiapi
+Version: 0.0.1
+Summary: 一个聚合了很多api的python库
+Home-page: https://github.com/
+Author: mokkii666 
+Author-email: nibcmubd@hotmail.com
+License: UNKNOWN
+Description: # mokk-API
+        
+        ### 版权申明：本库使用GBL协议
+        
+        mokk-api 全称 Modular API Kit for Python with Mokkii （Mokkii的Python模块化API工具包），是一个聚合了大量api的聚合模块。
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GPL License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
