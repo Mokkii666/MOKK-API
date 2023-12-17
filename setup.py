@@ -5,7 +5,7 @@ with open("README.md", encoding='utf-8', mode="r") as fh:
 
 setuptools.setup(
     name="mokiapi",                                         
-    version="0.0.1",                         
+    version="0.0.3",                         
     author="mokkii666 ",                              
     author_email="nibcmubd@hotmail.com",                  
     description="一个聚合了很多api的python库",               
